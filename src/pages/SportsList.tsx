@@ -28,16 +28,16 @@ const sportsData = {
       image: 'https://i.postimg.cc/ydcj51Lh/chess.jpg',
       formLink: 'https://forms.gle/2JXVoc3hNQrjSSiK6'
     },
+    // {
+    //   id: 4,
+    //   name: 'Carroms',
+    //   // time: '11:00 AM',
+    //   // venue: 'Jump Pit',
+    //   image: 'https://i.postimg.cc/fLc7CHbB/carroms.jpg',
+    //   formLink: 'https://forms.gle/rWam8gHHEtKo8mtV6'
+    // },
     {
       id: 4,
-      name: 'Carroms',
-      // time: '11:00 AM',
-      // venue: 'Jump Pit',
-      image: 'https://i.postimg.cc/fLc7CHbB/carroms.jpg',
-      formLink: 'https://forms.gle/rWam8gHHEtKo8mtV6'
-    },
-    {
-      id: 5,
       name: 'Volley Ball',
       // time: '2:00 PM',
       // venue: 'Field Area',
@@ -45,7 +45,7 @@ const sportsData = {
       formLink: 'https://forms.gle/kPPifmXXc2Ym3d7T7'
     },
     {
-      id: 6,
+      id: 5,
       name: 'Tug of War',
       // time: '3:30 PM',
       // venue: 'Jump Area',
@@ -68,7 +68,7 @@ const sportsData = {
       // time: '11:00 AM',
       // venue: 'Main Track',
       image: 'https://i.postimg.cc/Wzp9kR7M/chess1.jpg',
-      formLink: 'https://forms.gle/9PiehsrZ7iAmBtoT7'
+      formLink: ''
     },
     {
       id: 3,
@@ -83,17 +83,17 @@ const sportsData = {
       name: 'Tug of War',
       // time: '2:30 PM',
       // venue: 'Field Area',
-      image: 'https://i.postimg.cc/13ypR0Jq/tugofwar1.jpg',
+      image: 'https://i.postimg.cc/rpLWd3V9/tugofwar.jpg',
       formLink: 'https://forms.gle/X9FV3rcSHDtUnecZ7'
     },
-    // {
-    //   id: 5,
-    //   name: '',
-    //   // time: '4:00 PM',
-    //   // venue: 'Jump Area',
-    //   image: 'https://images.unsplash.com/photo-1600679472829-3044539ce8ed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-    //   formLink: 'https://forms.google.com/triple-jump-female'
-    // }
+    {
+      id: 5,
+      name: 'Kho-Kho',
+      // time: '4:00 PM',
+      // venue: 'Jump Area',
+      image: 'https://i.postimg.cc/26h6NSRd/kho-kho.jpg',
+      formLink: 'https://forms.gle/UH5CTpkXwgaoQpSQ7'
+    }
   ]
 };
 
