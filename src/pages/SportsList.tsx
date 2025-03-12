@@ -68,7 +68,7 @@ const sportsData = {
       // time: '11:00 AM',
       // venue: 'Main Track',
       image: 'https://i.postimg.cc/Wzp9kR7M/chess1.jpg',
-      formLink: ''
+      formLink: 'https://forms.gle/WzQCaxL8gbRRfhWT9'
     },
     {
       id: 3,
